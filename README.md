@@ -1,13 +1,13 @@
 # PHP/MySQL loginconfirmation thing
 Primary Objectives:
-1. Create a database with 1 table (users) and these fields:
+1. Create a database with 1 table (users) and these fields: (accomplished)
 - id | int
 - fname | text
 - lname | text
 - email | text
 - password | text md5
 - number | text
-2. Create the following pages for this project.
+2. Create the following pages for this project. (accomplished)
 - login form |R
 - user registration | C
 - user profile view | R
@@ -15,5 +15,5 @@ Primary Objectives:
 - user delete        | D
 - users list |R
  
-Bonus Objective:
+Bonus Objective: 
 -  use css and js to style the whole app find UI inspirations

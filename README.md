@@ -1,4 +1,4 @@
-# PHP/MySQL loginconfirmation thing
+# PHP/MySQL login confirmation thing
 Primary Objectives:
 1. Create a database with 1 table (users) and these fields: (accomplished)
 - id | int
